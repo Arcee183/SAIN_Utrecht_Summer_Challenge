@@ -1,6 +1,9 @@
 # SAIN_Utrecht_Summer_Challenge
 Repo for our Summer Challenge Project hosted by SAIN Utrecht
 
+## Blogpost
+The work mentioned in this GitHub repo was used for the Substack blogpost that you can find here: https://arcee183.substack.com/p/its-all-tensors-to-me-a-multilingual
+
 ## Authors
 Milan Schouten, Rick Curvers
 
